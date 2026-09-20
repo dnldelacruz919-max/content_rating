@@ -1,1 +1,1 @@
-# coding-project-template
+# Content Rating Project
